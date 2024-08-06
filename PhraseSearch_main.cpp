@@ -1,6 +1,5 @@
 //
 //  main.cpp
-//  hw7.1
 //
 //  Created by Aliza Virji on 3/19/24.
 //
